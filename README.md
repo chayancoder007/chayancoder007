@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ℂℍ𝔸𝕐𝔸ℕ 𝕄𝔸ℕ𝔻𝔸𝕃</h1>
 <h3 align="center">𝒜 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝐹𝓊𝓁𝓁𝒮𝓉𝒶𝒸𝓀 𝓌𝑒𝒷 𝒹𝑒𝓋𝓁𝑜𝓅𝑒𝓇 𝒻𝓇𝑜𝓂 𝐼𝓃𝒹𝒾𝒶</h3>
+<img align="right" alt="hacker" width="400" src="https://i.gifer.com/81RA.mp4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayancoder007&label=Profile%20views&color=0e75b6&style=flat" alt="chayancoder007" /> </p>
 
