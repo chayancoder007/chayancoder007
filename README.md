@@ -13,7 +13,7 @@
 
 - 📫 𝐻𝑜𝓌 𝓉𝑜 𝓇𝑒𝒶𝒸𝒽 𝓂𝑒 ( 𝒲𝒽𝒶𝓉𝓈𝒶𝓅𝓅 𝑔𝓇𝑜𝓊𝓅 ) **https://chat.whatsapp.com/ESsosvmDIfLJ3M6LYO4dCG**
 
-- 📄 Know about my experiences [𝐼 𝒶𝓂 𝒶 𝒫𝓇𝑜 𝒞𝒽𝑒𝓈𝓈 𝓅𝓁𝒶𝓎𝑒𝓇](𝐼 𝒶𝓂 𝒶 𝒫𝓇𝑜 𝒞𝒽𝑒𝓈𝓈 𝓅𝓁𝒶𝓎𝑒𝓇)
+- 📄 Know about my experiences (𝐼 𝒶𝓂 𝒶 𝒫𝓇𝑜 𝒞𝒽𝑒𝓈𝓈 𝓅𝓁𝒶𝓎𝑒𝓇)
 
 - ⚡ 𝐹𝒶𝒸𝓉 𝒶𝒷𝑜𝓊𝓉 𝓂𝑒 **𝕤𝕚𝕞𝕡𝕝𝕖 𝕒𝕟𝕕 𝕙𝕒𝕧𝕖 𝕤𝕚𝕘𝕞𝕒 𝕒𝕥𝕥𝕚𝕥𝕦𝕕𝕖**
 
