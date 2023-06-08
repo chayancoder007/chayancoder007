@@ -23,6 +23,12 @@
 <a href="https://fb.com/tomar bubba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tomar bubba" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_.abhi._22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_.abhi._22" height="30" width="40" /></a>
 </p>
+
+## ❤ Views and Followers
+<a href="https://github.com/chayancoder007/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chayancoder007">
+</a>
+<a href="https://github.com/CoderLovely08?tab=followers"><img src="https://img.shields.io/github/followers/CoderLovely08?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chayancoder007" alt="chayancoder007" /></a> </p>
   <br/>
